@@ -13,10 +13,6 @@ Obsidian-Online allows users to log in using their Google or Microsoft accounts 
 3. Set up environment variables (refer to `.env.example`)
 4. Run the development server: `npm run dev`
 
-## Contribution Guidelines
-
-We welcome contributions to Obsidian-Online! If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## Roadmap
 
 - [ ] Basic note creation and editing functionality
